@@ -1,6 +1,6 @@
 ![Before and After Comparison](https://github.com/LiterallyUs/removegrass/blob/main/Remove%20Grass.jpg?raw=true)
 
-Removes grass generation.
+This mod removes grass generation in Minecraft.
 
 Requires Fabric API.
 
@@ -10,4 +10,3 @@ This mod also restricts the generation of the following: short grass, tall grass
 
 The mod should be compatible with most mods because it doesn't remove plants from the game, it only removes their generation.
 
-I made this mod because I hate decorative grass in Minecraft. #NoGrass
