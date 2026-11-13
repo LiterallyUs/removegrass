@@ -1,4 +1,4 @@
-![Before and After Comparison](https://githubusercontent.com)
+![Before and After Comparison](https://github.com/LiterallyUs/removegrass/blob/main/Remove%20Grass.jpg?raw=true)
 
 Removes grass generation.
 
